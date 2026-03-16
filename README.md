@@ -189,13 +189,3 @@ O nó HTTP Request está configurado com os seguintes parâmetros:
 - Algumas cidades menores podem não estar disponíveis na API
 
 ---
-
-## 📄 Licença
-
-Este projeto é disponibilizado para fins educacionais.
-
----
-
-## 🤝 Contribuições
-
-Sugestões e melhorias são bem-vindas! Abra uma issue ou pull request.
